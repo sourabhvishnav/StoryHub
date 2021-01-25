@@ -54,5 +54,3 @@ const Navigator = createBottomTabNavigator(
 );
 
 const AppContainer = createAppContainer(Navigator);
-
-const styles = StyleSheet.create({});
